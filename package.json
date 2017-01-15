@@ -3,6 +3,7 @@
     "dev": "lite-server"
   },
   "devDependencies": {
+    "bower": "^1.8.0",
     "lite-server": "^2.2.0"
   }
 }
